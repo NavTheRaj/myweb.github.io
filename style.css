@@ -1,0 +1,36 @@
+body{
+	background-color: #D3D3D3;
+}
+
+.header{
+	background-color: white;
+}
+.container{
+	background-color: white;
+	padding: 5px;
+}
+
+.input-group{
+	padding: 10px;
+}
+.input-group label{
+	display: block;
+	text-align: left;
+}
+.btn{
+	padding: 5px;
+	color: white;
+	background-color: black;
+}
+#content{
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 500px;
+}
+
+#result{
+	background-color: white;
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 500px;
+}
